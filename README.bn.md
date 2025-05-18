@@ -4,17 +4,17 @@
 
 ## আলোচনার বিষয়গুলো
 
-* [হায়ার-অর্ডার ফাংশন (Higher-Order Functions)](topics/higher_order_functions.md)
+* [হায়ার-অর্ডার ফাংশন (Higher-Order Functions)](topics/igher_order_functions.bd.md)
 
   * এমন ফাংশন যা অন্য কোনো ফাংশনকে ইনপুট হিসেবে নেয় বা রিটার্ন করে
   * সাধারণত লগিং, টাস্ক রানার, বা কাস্টম ওয়ার্কফ্লো বানানোর সময় কাজে লাগে
 
-* [টাইপডেফ (Typedef)](topics/typedef.md)
+* [টাইপডেফ (Typedef)](topics/typedef.bd.md)
 
   * ফাংশনের সিগনেচারের জন্য কাস্টম নাম তৈরি করতে ব্যবহার করা হয়
   * ভ্যালিডেটর, কলব্যাক বা মিডলওয়্যার এর জন্য বেশ উপকারী
 
-* [অ্যানোনিমাস ফাংশন (Anonymous Functions)](topics/anonymous_function.md)
+* [অ্যানোনিমাস ফাংশন (Anonymous Functions)](topics/anonymous_function.bd.md)
 
   * নামহীন ফাংশন, যা সরাসরি ইনলাইন লিখে ব্যবহার করা হয়
   * সাধারণত list ফিল্টার, সাজানো বা ছোটখাটো কলব্যাকের সময় দেখা যায়
