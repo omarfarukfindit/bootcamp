@@ -1,5 +1,5 @@
 
-## 📘 What is an Anonymous Function?
+## What is an Anonymous Function?
 
 In Dart, an **anonymous function** is a function **without a name**. It is often used when you need a short piece of logic, especially when working with **higher-order functions** like `map`, `where`, and `forEach`.
 
