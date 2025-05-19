@@ -4,7 +4,7 @@
 
 ## আলোচনার বিষয়গুলো
 
-* [হায়ার-অর্ডার ফাংশন (Higher-Order Functions)](topics/igher_order_functions.bd.md)
+* [হায়ার-অর্ডার ফাংশন (Higher-Order Functions)](topics/higher_order_functions.bd.md)
 
   * এমন ফাংশন যা অন্য কোনো ফাংশনকে ইনপুট হিসেবে নেয় বা রিটার্ন করে
   * সাধারণত লগিং, টাস্ক রানার, বা কাস্টম ওয়ার্কফ্লো বানানোর সময় কাজে লাগে
